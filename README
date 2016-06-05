@@ -37,7 +37,13 @@ Please try the demo programs that ship with the ODB. Just run the ODB with no
 command line arguments.
 
 Please also watch the ODB video "Debugging Backwards in Time"
-available at http://video.google.com/videoplay?docid=3897010229726822034
+available at 
+
+https://www.youtube.com/watch?v=xpI8hIgOyko
+
+and the research paper describing the theory of opperation cna be found at:
+
+http://www.cs.kent.edu/~farrell/mc08/lectures/progs/pthreads/Lewis-Berg/odb/AADEBUG_Mar_03.pdf
 
 I am looking for a good short Flash tutorial, with voice annotation,
 of how to use the ODB. I would like to put it on my website. If you create
@@ -49,5 +55,5 @@ See docs/ODBUserManual.html. Enjoy!
 
 
 
-   --Bil Lewis <bil@lambdacs.com>
-   18 Feb 2007
+--Bil Lewis <bil@lambdacs.com>
+18 Feb 2007
